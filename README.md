@@ -68,6 +68,7 @@ Increment product quantity
 Decrease product quantity
 
 📁 Project Structure
+
 Copysrc/
 ├── components/
 │   └── NavBarComponent.jsx
@@ -80,6 +81,9 @@ Copysrc/
 │   ├── StorePage.jsx
 │   └── CartPage.jsx
 └── App.jsx
+
+
+
 🔧 Configuration
 The application uses the Fake Store API for product data. No additional configuration is required for basic usage.
 🤝 Contributing
