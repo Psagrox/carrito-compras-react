@@ -34,11 +34,7 @@ npm (v6 or higher)
 
 Clone the repository:
 
-bashCopygit clone [https://github.com/Psagrox/carrito-compras-react]
-
-Navigate to the project directory:
-
-bashCopycd [carritos de compras]
+bashCopygit clone [https://github.com/Psagrox/carrito-compras-react.git]
 
 Install dependencies:
 
